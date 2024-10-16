@@ -22,4 +22,6 @@
     font-size:50px;
     text-align:center;
     display: table-cell;
-    vertical-align:middle; }
+    vertical-align:middle; 
+    color: darkred;
+}
